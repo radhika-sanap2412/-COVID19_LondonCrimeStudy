@@ -1,6 +1,6 @@
 
 # London Crime Analysis: Impact of COVID-19
-## Introduction
+## Description
 The COVID-19 pandemic brought unprecedented changes to everyday life, including shifts in crime patterns. This analysis examines how various types of crimes were affected by the pandemic in London, with a particular focus on periods of lockdown and other restrictive measures. The findings aim to provide insights into the social consequences of the pandemic and inform future policy decisions.
 
 ## Data Sources
